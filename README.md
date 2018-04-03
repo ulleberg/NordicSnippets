@@ -1,6 +1,8 @@
 # NordicSnippets
 [![Build Status](https://travis-ci.org/andenore/NordicSnippets.svg)](https://travis-ci.org/andenore/NordicSnippets)
 
+[![Open in IDE8](https://img.shields.io/badge/Open%20in-IDE8-blue.svg)](https://staging.ide8.io/open?repo=https://github.com/ulleberg/NordicSnippets)
+
 NordicSnippets is a collection of bare-metal example code that runs on the nRF51 or nRF52 series of Nordic Semiconductor SoCs.
 
 The idea is that the examples are as simple as possible to showcase how easy it is to use the various peripherals. Therefore all examples are limited to one main.c file, and typically use a minimum set of the features of a given peripheral.
